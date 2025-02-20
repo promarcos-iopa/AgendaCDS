@@ -1,0 +1,13 @@
+# Ignorar configuraciones sensibles
+config/config.php
+
+# Ignorar dependencias de Composer
+vendor/
+composer.lock
+
+# Ignorar logs y archivos temporales
+logs/
+error_log
+
+# Ignorar configuración de entorno
+.env
