@@ -11,3 +11,4 @@ error_log
 
 # Ignorar configuración de entorno
 .env
+.vscode
