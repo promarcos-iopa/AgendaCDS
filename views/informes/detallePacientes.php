@@ -27,12 +27,6 @@
 			transition: height 0.3s ease; /* Efecto de transición suave */
 		}
 
-
-
-
-
-
-
 		.css-me949n {
 			margin: 0px;
 			line-height: 1.5;
